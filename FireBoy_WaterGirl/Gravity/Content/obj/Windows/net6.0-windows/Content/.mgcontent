@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Colours/black.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Colours/grey.jpg</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/FBoy.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/FBoyLeft.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/FBoyLeft1.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/FBoyRight.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/FBoyRight1.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/File.spritefont</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Font1.spritefont</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Images/BG.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Images/BG1.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Images/BGI.jpg</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Images/button2.jpg</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Images/heart.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Images/pausemenu.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Images/Play.jpg</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Images/Play1.jpg</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Lava.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Sound/beep.wav</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Sound/bgm.mp3</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Sound/bgmplay.mp3</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Sound/D.wav</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Sound/die.mp3</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/bg2.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/end.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/gold.jpg</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/Lvl1.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile_4.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile_5.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile_5a.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile_6.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile_7.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile_a.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile1.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile2.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile3.jpg</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile4.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile5.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile6.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tile7.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tileA.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tileb1.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/Tiles/tileb2.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/water.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/WGirl.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/WGirlLeft.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/WGirlLeft1.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/WGirlRight.png</File>
+    <File>C:/Users/tejas/OneDrive/Desktop/Semester 3/Game Programming with Data Structures/TJSKFinal/FireBoy_WaterGirl/Gravity/Content/WGirlRight1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
