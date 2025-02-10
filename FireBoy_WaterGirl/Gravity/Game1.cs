@@ -9,7 +9,7 @@ using Microsoft.Xna.Framework.Audio;
 
 // Game Name - Fireboy & WaterGirl
 
-// Makers 
+// Maker of the Game
 // Tejaswi Singh Jood
 
 
