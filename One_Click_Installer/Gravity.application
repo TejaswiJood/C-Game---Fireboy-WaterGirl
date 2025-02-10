@@ -6,6 +6,7 @@
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
+
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Application Files\Gravity_1_0_0_0\Gravity.dll.manifest" size="38090">
       <assemblyIdentity name="Gravity.exe" version="1.0.0.0" publicKeyToken="e33c13b5bf9ff8fe" language="neutral" processorArchitecture="msil" type="win32" />
